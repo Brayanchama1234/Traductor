@@ -29,7 +29,7 @@ Open the terminal and type following commands.
 
 * `apt install git`
 
-* `https://github.com/Brayanchama1234/Traductor.git`
+* `https://github.com/Brayanchama1234/Traductor`
 
 * `chmod +x traductor/install`
 
