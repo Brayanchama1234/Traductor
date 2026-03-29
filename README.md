@@ -29,9 +29,9 @@ Open the terminal and type following commands.
 
 * `apt install git`
 
-* `git clone https://github.com/jackind424/onex.git`
+* `https://github.com/Brayanchama1234/Traductor.git`
 
-* `chmod +x onex/install`
+* `chmod +x traductor/install`
 
 * `sh onex/install` if not work than use `./onex/install`
 
