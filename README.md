@@ -33,17 +33,17 @@ Open the terminal and type following commands.
 
 * `chmod +x traductor/install`
 
-* `sh onex/install` if not work than use `./onex/install`
+* `sh traductor/install` if not work than use `./traductor/install`
 
 ------------------------------------------------------------------------
 
 ## How to use onex ?
 
 ### CLI Mode :
-`onex -h` or `onex help` for help.
+`traductor -h` or `traductor help` for help.
 
 Options :
-- `onex install [tool_name]` install any tool.
+- `traductor install [tool_name]` install any tool.
 - `onex -i [tool_name]` install any tool.
 - `onex search [tool_name]` search any tool.
 - `onex -s [tool_name]` search any tool.
