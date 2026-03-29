@@ -1,0 +1,2 @@
+# Traductor
+scrip termux
